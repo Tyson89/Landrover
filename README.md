@@ -4,6 +4,6 @@
 
 ### If you find mistakes or errors, feel free to report them and i'll fix them.
 
-### This is a Arma 2 port and therefore falls under the ADPL-SA Licence!
+### This is a Arma 2 port and therefore falls under the ADPL-SA License!
 
-[ADPL-SA Licence](https://www.bohemia.net/community/licenses/arma-and-dayz-public-license-share-alike-adpl-sa)
+[ADPL-SA License](https://www.bohemia.net/community/licenses/arma-and-dayz-public-license-share-alike-adpl-sa)
